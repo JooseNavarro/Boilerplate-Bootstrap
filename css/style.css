@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  border: 0;
+}
+.btn-outline-success {
+    color: #5cb85c;
+    background-image: none;
+    background-color: transparent;
+    border-color: #5cb85c;
+    margin: 5px;
+}
+.bg-inverse {
+    background-color: #000000!important;
+}
+.no_float{
+  display: block;
+  margin: 0 auto;
+  float: none;
+}
+
+.line_small{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgb(2, 117, 216);
+  width: 10%;
+}
+footer{
+  padding: 1em;
+}
